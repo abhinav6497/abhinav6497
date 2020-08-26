@@ -1,4 +1,4 @@
-## Hemllo There !✌️, `I'm Nitesh`.  
+## Hello There !✌️, `I'm Abhinav`.  
 :
 
 
@@ -15,16 +15,16 @@
 ```
 >### KangerXD
 
-<img src="https://komarev.com/ghpvc/?username=niteshraj2310" alt="niteshraj2310" />
+<img src="https://komarev.com/ghpvc/?username=abhinav6497" alt="abhinav6497" />
 
 ### CHECK-OUT🙂:
 
-- [ ] [RemixGeng](https://github.com/niteshraj2310/RemixGeng)
+- [ ] [UserBot](https://github.com/abhinav6497/UserBot)
 
-![Nitesh's github stats](https://github-readme-stats.vercel.app/api?username=niteshraj2310&show_icons=true&theme=radical)
+![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinav6497&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshraj2310&hide=dockerfile&theme=dark)](https://github.com/niteshraj2310)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav6497&hide=dockerfile&theme=dark)](https://github.com/abhinav6497)
 
-## [![portfolio badge](https://img.shields.io/badge/Check_out_my-portfolio-black?style=for-the-badge&logo=git&logoColor=cyan)](https://niteshraj2310.github.io)
+## [![portfolio badge](https://img.shields.io/badge/Check_out_my-portfolio-black?style=for-the-badge&logo=git&logoColor=cyan)](https://abhinavshinde.github.io)
 
-kek, Byee...
+ok, Byee...
