@@ -9,7 +9,7 @@
 >Fan of Python🐍
 >Love Gaming:)
 >Kinda into ANDROIDs
->Cheems iz Lub XD
+
 ```
 >### KangerXD
 
@@ -21,7 +21,7 @@
 
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinav6497&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav6497&hide=dockerfile&theme=dark)](https://github.com/abhinav6497)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav6497&hide=dockerfile&theme=light)](https://github.com/abhinav6497)
 
 ## [![portfolio badge](https://img.shields.io/badge/Check_out_my-portfolio-black?style=for-the-badge&logo=git&logoColor=cyan)](https://abhinavshinde.github.io)
 
