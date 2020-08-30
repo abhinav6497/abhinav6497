@@ -19,7 +19,7 @@
 
 - [ ] [UserBot](https://github.com/abhinav6497/UserBot)
 
-![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinav6497&show_icons=true&theme=radical)
+![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinav6497&show_icons=true&theme=light)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav6497&hide=dockerfile&theme=light)](https://github.com/abhinav6497)
 
