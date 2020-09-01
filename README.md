@@ -9,7 +9,6 @@
 >Fan of Python🐍
 >Love Gaming:)
 >Kinda into ANDROIDs
-
 ```
 >### KangerXD
 
